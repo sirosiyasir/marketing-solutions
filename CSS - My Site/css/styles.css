@@ -59,6 +59,10 @@ p {
   text-decoration: none;
 }
 
+.btn:hover {
+  color: #CDF0EA;
+}
+
 .bold {
   font-weight: bold;
   padding-bottom: 20px;
